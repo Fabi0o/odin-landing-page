@@ -97,7 +97,7 @@ button {
 }
 .inspirationalQuote {
   background-color: #e5e7eb;
-  padding: 100px 250px 100px 250px;
+  padding: 100px 250px;
 }
 .quote {
   font-size: 36px;
@@ -107,4 +107,39 @@ button {
 .author {
   font-weight: bold;
   text-align: end;
+}
+.messageContent {
+  display: flex;
+  flex-direction: column;
+}
+.alertWindow {
+  display: flex;
+  background-color: #3882f6;
+  justify-content: space-between;
+  padding: 50px 100px;
+  border-radius: 8px;
+}
+.callToAction {
+  padding: 100px 200px;
+}
+
+.signUpButton.second {
+  border: white solid;
+}
+
+.title {
+  font-weight: bold;
+  color: #f9faf8;
+}
+.message {
+  font-size: 16px;
+  color: #e5e7eb;
+}
+footer {
+  color: #e5e7eb;
+  font-size: 16px;
+  background-color: #1f2937;
+  text-align: center;
+  margin: auto;
+  padding: 30px 0;
 }
