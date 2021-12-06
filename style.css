@@ -24,7 +24,7 @@ ul {
 }
 a {
   text-decoration: none;
-  color: #e5e7eb63;
+  color: #e5e7eb;
   font-size: 16px;
 }
 .logo {
@@ -56,7 +56,7 @@ a {
   color: #f9faf8;
 }
 .paragraph {
-  color: #e5e7eb63;
+  color: #e5e7eb;
   font-size: 18px;
 }
 button {
@@ -94,4 +94,17 @@ button {
 }
 .secondPart {
   margin: 50px 250px 100px 250px;
+}
+.inspirationalQuote {
+  background-color: #e5e7eb;
+  padding: 100px 250px 100px 250px;
+}
+.quote {
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+}
+.author {
+  font-weight: bold;
+  text-align: end;
 }
