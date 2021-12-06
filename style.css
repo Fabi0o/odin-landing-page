@@ -49,6 +49,7 @@ a {
   align-items: center;
   justify-content: center;
   background-color: rgba(136, 135, 135, 0.281);
+  color: #f9faf848;
 }
 .heading {
   font-size: 48px;
