@@ -67,3 +67,31 @@ button {
   border: none;
   margin-top: 10px;
 }
+.secondHeading {
+  text-align: center;
+  font-size: 36px;
+  font-weight: bold;
+  color: #1f2937;
+  margin-bottom: 50px;
+}
+.smallImage {
+  width: 150px;
+  height: 150px;
+  border: #3882f6 solid;
+  border-radius: 12px;
+}
+.contentPart {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  flex-wrap: wrap;
+}
+.description {
+  text-align: center;
+}
+.imageCell {
+  max-width: 150px;
+}
+.secondPart {
+  margin: 50px 250px 100px 250px;
+}
